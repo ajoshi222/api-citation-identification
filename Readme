@@ -1,0 +1,21 @@
+# API Data Fetching and Citation Identification
+
+This project fetches data from a paginated API, identifies sources within the response text, and displays the citations using a user-friendly UI created with Streamlit.
+
+## Requirements
+
+- Python 3.7+
+- Requests library
+- Streamlit library
+
+## Setup
+
+1. Clone the repository or download the source code.
+2. Navigate to the project directory.
+
+### Virtual Environment (Recommended)
+
+3. Create a virtual environment:
+
+   ```sh
+   python -m venv env
